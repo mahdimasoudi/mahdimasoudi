@@ -1,57 +1,64 @@
-# Hi there 👋, I'm Mahdi Masoudi
+# 🌟 Mahdi Masoudi 🌟
 
-I'm a passionate Mobile App Developer specializing in **.NET MAUI**, **Xamarin**, and **Flutter**. I also have extensive experience as a **.NET Developer**.
-
----
-
-## 🚀 Skills
-
-### Mobile App Development
-- **Xamarin Forms**
-- **.NET MAUI**
-- **Flutter**
-
-### Backend Development
-- **.NET (C#)**
-
-### Containerization
-- **Docker**
-
-### Operating Systems
-- **Linux**
+**Mobile App Developer | .NET MAUI | Xamarin | Flutter | .NET Developer**
 
 ---
 
-## 🛠️ Technologies & Tools
+## About Me
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
-![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+Hello! I'm Mahdi Masoudi, a dedicated and passionate mobile app developer. With expertise in **.NET MAUI**, **Xamarin**, and **Flutter**, I craft seamless and user-friendly mobile applications. My backend development skills in **.NET (C#)** complement my mobile development prowess, enabling me to deliver robust and efficient solutions.
 
 ---
 
-## 📫 How to reach me
+## 🔧 Skills & Technologies
 
-Feel free to reach out to me via email: [![Email](https://img.shields.io/badge/mahdimasoudi1995@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahdimasoudi1995@gmail.com)
+| **Category**            | **Technologies**                                  |
+|-------------------------|---------------------------------------------------|
+| **Mobile Development**  | Xamarin Forms, .NET MAUI, Flutter                 |
+| **Backend Development** | .NET (C#)                                         |
+| **Containerization**    | Docker                                            |
+| **Operating Systems**   | Linux                                             |
+
+---
+
+## 🛠 Tools & Frameworks
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" alt="Xamarin"/>
+  <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET MAUI"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</p>
 
 ---
 
 ## 🌱 Currently Learning
 
-I am continuously exploring new technologies and improving my existing skills. Right now, I'm delving deeper into advanced Docker configurations and expanding my expertise in Flutter.
+I am constantly exploring new technologies and enhancing my skills. Currently, I am delving deeper into:
+
+- Advanced Docker configurations
+- Expanding expertise in Flutter
 
 ---
 
-## 💬 Let's Connect
+## 📬 Contact Me
 
-I am always open to new opportunities, collaborations, and interesting projects. Let's connect and create something amazing together!
+Let's connect and create something amazing together! You can reach me via:
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+<p align="center">
+  <a href="mailto:mahdimasoudi1995@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/your-github-username">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
